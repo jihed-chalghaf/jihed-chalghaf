@@ -39,8 +39,8 @@ I'm a passionate Smart Contract Engineer from Tunisia.
 ## &#x1f4c8; GitHub Stats
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=dark" alt="jihed-chalghaf" width = 460/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=dark" alt="jihed-chalghaf" width = 460/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=dark" alt="jihed-chalghaf" width = 400/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=dark" alt="jihed-chalghaf" width = 400/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihed-chalghaf&label=Profile%20views&color=0e75b6&style=flat" alt="jihed-chalghaf" /> </p>
