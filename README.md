@@ -40,8 +40,8 @@
 
 <p align="center">
 <a href="https://github.com/jihed-chalghaf">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia"/>
-  <img height="172em" src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia"/>
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
 </a>
 </p>
 
