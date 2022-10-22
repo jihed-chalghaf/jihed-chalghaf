@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🏢 Currently working at **Bytecode Labs** as a *Smart Contract Engineer*
-- ⚙️ Comfortable with`Rust` and `Solidity`
+- ⚙️ Smart Contract development languages: `Rust` | `Solidity`
 - 🌠 Blockchain experience with: **Casper** | **Ethereum** | **Hyperledger Fabric**
 - 💬 Contact me: <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-Jihed%20Chalghaf-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="jihed-chalghaf"/></a> <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-chalghaf.jihed@gmail.com-7b7d7d?style=flat&logo=Gmail"/></a>
 - 🎹 Self-taught pianist ➤ I upload my performances on <a href="https://www.youtube.com/user/BrTpiano"><img src="https://img.shields.io/badge/-Jihed%20Piano%20Covers-ab300e?style=flat&logo=Youtube&logoColor=white" alt="jihed-chalghaf"/></a>
@@ -37,10 +37,10 @@
 
 ### &#x1f4c8; GitHub Stats
 <a>
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&custom_title=My GitHub Stats"/>
+<img height="172em" align="center" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&custom_title=My GitHub Stats"/>
 </a>
 <a>
-  <img height="170em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
+  <img height="172em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
 </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihed-chalghaf&label=Profile%20views&color=05122A&style=flat" alt="jihed-chalghaf" /> </p>
