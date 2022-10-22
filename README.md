@@ -1,11 +1,11 @@
 <h2>Hey there! 👋 I'm Jihed</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
-&nbsp;🏢 Currently working at **Bytecode Labs** as a *Smart Contract Engineer*
-&nbsp;⚙️ Comfortable with`Rust` and `Solidity`
-&nbsp;🌠 Blockchain experience with: **Casper** | **Ethereum** | **Hyperledger Fabric**
-&nbsp;💬 Contact me: <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-Jihed%20Chalghaf-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="jihed-chalghaf"/></a> <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-chalghaf.jihed@gmail.com-7b7d7d?style=flat&logo=Gmail"/></a>
-&nbsp;🎹 Self-taught pianist ➤ I upload my performances on <a href="https://www.youtube.com/user/BrTpiano"><img src="https://img.shields.io/badge/-Jihed%20Piano%20Covers-ab300e?style=flat&logo=Youtube&logoColor=white" alt="jihed-chalghaf"/></a>
+- 🏢 Currently working at **Bytecode Labs** as a *Smart Contract Engineer*
+- ⚙️ Comfortable with`Rust` and `Solidity`
+- 🌠 Blockchain experience with: **Casper** | **Ethereum** | **Hyperledger Fabric**
+- 💬 Contact me: <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-Jihed%20Chalghaf-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="jihed-chalghaf"/></a> <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-chalghaf.jihed@gmail.com-7b7d7d?style=flat&logo=Gmail"/></a>
+- 🎹 Self-taught pianist ➤ I upload my performances on <a href="https://www.youtube.com/user/BrTpiano"><img src="https://img.shields.io/badge/-Jihed%20Piano%20Covers-ab300e?style=flat&logo=Youtube&logoColor=white" alt="jihed-chalghaf"/></a>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
