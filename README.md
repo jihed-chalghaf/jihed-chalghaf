@@ -1,46 +1,46 @@
-<img align="left" src="https://icon-library.com/images/terminal-icon/terminal-icon-5.jpg" height="100" width="100">
+<h2>Hey there! 👋 I'm Jihed</h2>
 
-### Hi 👋, I'm Jihed Chalghaf
+### 👨🏻‍💻 &nbsp;About Me
+🏢 Currently working at **Bytecode Labs** as a *Smart Contract Engineer*
+⚙️ Comfortable with`Rust` and `Solidity`
+🌠 Blockchain experience with: **Casper** | **Ethereum** | **Hyperledger Fabric**
+💬 Contact me: <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-Jihed%20Chalghaf-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="jihed-chalghaf"/></a> <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-chalghaf.jihed@gmail.com-7b7d7d?style=flat&logo=Gmail"/></a>
+🎹 Self-taught pianist ➤ I upload my performances on <a href="https://www.youtube.com/user/BrTpiano"><img src="https://img.shields.io/badge/-Jihed%20Piano%20Covers-ab300e?style=flat&logo=Youtube&logoColor=white" alt="jihed-chalghaf"/></a>
 
-I'm a passionate Smart Contract Engineer from Tunisia.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<br>
-
-- 🏢 I'm currently working at **Bytecode Labs**
-- ⚙️ I use daily `Rust` and occasionally `Solidity`
-- 🏭 Blockchain Experience with: **Casper** | **Ethereum** | **Hyperledger Fabric**
-- 💬 Connect with me: <a href="https://linkedin.com/in/jihed-chalghaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihed-chalghaf" height="20" width="30" /></a>
-- 📫 Reach me: **chalghaf.jihed@gmail.com**
-- ⚡️ Fun fact: I'm a self-taught pianist who uploads Anime music on [Youtube](https://www.youtube.com/user/BrTpiano)
-
-## 🔧 Languages & Tools
+### 🛠 &nbsp;Tech Stack
 <p>
-    <img src="https://img.shields.io/badge/OS-Linux-5849BE?style=flat&logo=linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Shell-Bash-181717?style=flat&logo=gnu-bash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Code-Rust-181717?style=flat&logo=Rust&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Code-Solidity-5849BE?style=flat&logo=Solidity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Code-TypeScript-0079BF?style=flat&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Code-JavaScript-E0CE14?style=flat&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Code-Python-0FCFBB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Code-Markdown-181717?style=flat&logo=Markdown&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-0079BF?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Editor-Remix-5849BE?style=flat&logo=Remix-ide&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-NodeJS-14AD9D?style=flat&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-Truffle-14AD9D?style=flat&logo=Truffle-framework&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-Mocha-86340C?style=flat&logo=Mocha&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-Git-F44D27?style=flat&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-GitLab-DC990B?style=flat&logo=GitLab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-Trello-0079BF?style=flat&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-Slack-E01563?style=flat&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tools-Insomnia-5849BE?style=flat&logo=Insomnia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=1cdada"/>
+    <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=1c90d6"/>
+    <img src="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust"/>
+    <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity&logoColor=8b14e8"/>
+    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript"/>
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript"/>
+    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python"/>
+    <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=Markdown"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code&logoColor=1c90d6"/>
+    <img src="https://img.shields.io/badge/-Remix-05122A?style=flat&logo=Remix&logoColor=8b14e8"/>
+    <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs&logoColor=14e87e"/>
+    <img src="https://img.shields.io/badge/-Truffle-05122A?style=flat&logo=Truffle"/>
+    <img src="https://img.shields.io/badge/-Waffle-05122A?style=flat&logo=Waffle"/>
+    <img src="https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=Hardhat"/>
+    <img src="https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=Mocha"/>
+    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git"/>
+    <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=GitHub"/>
+    <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab"/>
+    <img src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello&logoColor=1c90d6"/>
+    <img src="https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack"/>
+    <img src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=Insomnia&logoColor=8b14e8"/>
   </p>
+  
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
+<a>
+  <img height="172em" align="center" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&custom_title=My GitHub Stats" alt="jihed-chalghaf"/>
+</a>
+<a>
+  <img height="172em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
+</a>
 
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=dark" alt="jihed-chalghaf" width = 400/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=dark" alt="jihed-chalghaf" width = 400/>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jihed-chalghaf&label=Profile%20views&color=0e75b6&style=flat" alt="jihed-chalghaf" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jihed-chalghaf&label=Profile%20views&color=05122A&style=flat" alt="jihed-chalghaf" /> </p>
