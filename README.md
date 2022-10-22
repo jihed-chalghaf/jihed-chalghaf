@@ -1,6 +1,7 @@
 <h2>Hey there! 👋 I'm Jihed</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
+
 - 🏢 Currently working at **Bytecode Labs** as a *Smart Contract Engineer*
 - ⚙️ Smart Contract development languages: `Rust` | `Solidity`
 - 🌠 Blockchain experience with: **Casper** | **Ethereum** | **Hyperledger Fabric**
@@ -10,6 +11,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+
 <p>
     <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=1cdada"/>
     <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=1c90d6"/>
@@ -34,13 +36,13 @@
     <img src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=Insomnia&logoColor=8b14e8"/>
   </p>
   
-
 ### &#x1f4c8; GitHub Stats
-<a>
-  <img height="172em" align="center" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia"/>
+
+<p align="center">
+<a href="https://github.com/jihed-chalghaf">
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia&count_private=true&custom_title=My GitHub Stats"/>
+  <img height="172em" src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
 </a>
-<a>
-  <img height="172em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
-</a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jihed-chalghaf&label=Profile%20views&color=05122A&style=flat" alt="jihed-chalghaf" /> </p>
