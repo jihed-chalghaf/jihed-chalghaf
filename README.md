@@ -8,7 +8,7 @@
 - 💬 Contact me: <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-Jihed%20Chalghaf-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="jihed-chalghaf"/></a> <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-chalghaf.jihed@gmail.com-7b7d7d?style=flat&logo=Gmail"/></a>
 - 🎹 Self-taught pianist ➤ I upload my performances on <a href="https://www.youtube.com/user/BrTpiano"><img src="https://img.shields.io/badge/-Jihed%20Piano%20Covers-ab300e?style=flat&logo=Youtube&logoColor=white" alt="jihed-chalghaf"/></a>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"  height="160em"/>
 
 ### 🛠 &nbsp;Tech Stack
 
