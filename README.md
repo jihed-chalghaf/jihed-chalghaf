@@ -37,7 +37,7 @@
 
 ### &#x1f4c8; GitHub Stats
 <a>
-<img height="172em" align="center" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true&custom_title=My GitHub Stats"/>
+  <img height="172em" align="center" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia"/>
 </a>
 <a>
   <img height="172em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
