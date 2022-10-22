@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/jihed-chalghaf">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia&count_private=true&custom_title=My GitHub Stats"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=jihed-chalghaf&show_icons=true&locale=en&theme=algolia&custom_title=My GitHub Stats"/>
   <img height="172em" src="https://github-readme-streak-stats.herokuapp.com/?user=jihed-chalghaf&theme=algolia"/>
 </a>
 </p>
