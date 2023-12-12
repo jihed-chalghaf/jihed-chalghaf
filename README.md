@@ -5,9 +5,9 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="150em"/>
 
-- 🏢 Smart Contract Engineer at [Bytecode Labs](https://github.com/bytecode-labs)
+- 🏢 Smart Contract Engineer at [Arcadia](https://github.com/TheArcadiaGroup)
 - ⚡ Smart Contract development languages: **Rust | Solidity**
-- 🌠 Blockchain experience with: **Ethereum | Casper | Hyperledger Fabric**
+- 🌠 Blockchain experience with: **Ethereum | Casper | NEAR | Hyperledger Fabric**
 - 📧 Contact me through <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-Connect-0077B5?logo=Linkedin&logoColor=white" alt="jihed-chalghaf"/></a> <a href="mailto: chalghaf.jihed@gmail.com"><img src="https://img.shields.io/badge/-Send Email-7b7d7d?logo=Gmail&color=black"/></a>
 - 🎹 Self-taught pianist &rarr; Check out my channel <a href="https://www.youtube.com/@joe-keys"><img src="https://img.shields.io/badge/-Youtube-ab300e?&logo=Youtube&logoColor=white" alt="jihed-chalghaf"/></a>
 
