@@ -5,7 +5,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="150em"/>
 
-- 🏢 Offensive Security Engineer at [Halborn]([https://www.halborn.com/])
+- 🏢 Offensive Security Engineer at [Halborn](https://www.halborn.com/)
 - ⚡ Languages I have experience with: **Rust | Solidity | Move | DAML**
 - 🌠 Blockchain technologies I have experience with: **EVM | Casper | NEAR | Substrate | CosmWasm | Aptos | Hyperledger Fabric**
 - 📧 Contact me through <a href="https://linkedin.com/in/jihed-chalghaf"><img src="https://img.shields.io/badge/-Connect-0077B5?logo=Linkedin&logoColor=white" alt="jihed-chalghaf"/></a> <a href="mailto: chalghaf.jihed@gmail.com"><img src="https://img.shields.io/badge/-Send Email-7b7d7d?logo=Gmail&color=black"/></a>
